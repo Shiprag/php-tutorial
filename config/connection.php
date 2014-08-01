@@ -10,4 +10,6 @@ $db = substr($url["path"],1);
 
 //$dbc=mysqli_connect('localhost','root','shipramohit','mogify') OR die('Error: '.mysqli_connect_error);
   $dbc = mysqli_connect($server, $username, $password) OR die('Error: '.mysqli_connect_error);
+
+print_r($url);
 ?>
