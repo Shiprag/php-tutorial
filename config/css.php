@@ -11,7 +11,7 @@
 	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
 	
 	<!--css jquery-->
-	<link rel="stylesheet" href="//code.jquery.com/ui/1.10.4/themes/smootheness/jquery-ui.css">
+	<link rel="stylesheet" href="//code.jquery.com/ui/1.10.4/themes/smoothness/jquery-ui.css">
 	
 	<!--fontawsome-->
 	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
